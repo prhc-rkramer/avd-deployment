@@ -1,2 +1,2 @@
-# Avd-Deployment
+# AVD-Deployment
 Public scripts and configuration used to bootstrap Azure Virtual Desktop session hosts during deployment.
